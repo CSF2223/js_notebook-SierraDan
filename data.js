@@ -59,7 +59,10 @@ let student2 = grades[1];
 
 
 // The Array object has many methods and properties
-
+newEngland.length;              // Sets or returns the number of elements in an array
+newEngland.push("New York");    // Adds new elements to the end of an array, and returns the new
+newEngland.pop();               // Removes the last element of an array, and returns that element
+newEngland.indexOf("Rhode Island", 0);  // Search the array for an element and returns its position
 
 
 
