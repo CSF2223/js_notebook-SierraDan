@@ -28,3 +28,7 @@ ECMA-262 is the official name of the standard. ECMAScript is the official name o
                                                                         // Boolean - true or false
                                                                         // Undefined
     
+let myNumber = 7;
+let myName = "Daniel";
+let isRetired = false;
+let score;
